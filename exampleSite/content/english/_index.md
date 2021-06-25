@@ -33,7 +33,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: <h2>A Smart Vistos surgiu com o intuito de oferecer um serviço especializado em imigração para a Austrália.</h2>
+  - title: <h2>A Smart Vistos surgiu com a missão de oferecer um serviço especializado em imigração para a Austrália.</h2>
     images:
     - images/visas4.jpg
     - images/visas2.jpg
@@ -43,16 +43,12 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Valide o seu diploma na Austrália (skills assessment)
     images:
-    - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/visas1.jpg
+    content: Nós orientamos e assessoramos nossos clientes  na obtenção da validação de suas qualificações e experiências profissionais(skills assessment) nos respectivos órgãos australianos responsáveis por esses procedimentos tais como Engineers Australia; Australian Computer Society; Vetassess;  Australian Dental Council; Australian Institute of Management; TRA e outros.Essa etapa do processo, é um dos pré-requisito para fazer a aplicação de qualquer modalidade de visto do programa Skilled Migration.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: It’s a team of experienced and skilled people with distributions
