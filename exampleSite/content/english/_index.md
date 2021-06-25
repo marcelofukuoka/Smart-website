@@ -10,7 +10,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Something To Know About Smart Vistos
   feature_item:
   - name: Australian visas
     icon: fas fa-passport
@@ -22,11 +22,11 @@ feature:
     icon: fas fa-file-alt
     content: Avaliação curricular de elegibilidade para skilled visas gratuita
   - name: Honorários em R$
-    icon: fas fa-sack-dollar
-    content: Nossos honorários são em R$, assim não há variação cambial e nem IOF
-  - name: Faster Response
-    icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    icon: fas fa-file-invoice-dollar
+    content: Os valores de nossos honorários são em R$, assim não há variação cambial e nem IOF
+  - name: Rapidez no atendimento
+    icon: fas fa-clock
+    content: Procuramos atender aos nossos clientes sempre de uma maneira rápida
   - name: Depoimentos 
     icon: fas fa-grin-alt
     content: Veja alguns depoimentos de clientes satisfeitos com a Smart Vistos
