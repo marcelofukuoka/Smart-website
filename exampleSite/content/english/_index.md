@@ -22,7 +22,7 @@ feature:
     icon: fas fa-file-alt
     content: Avaliação curricular de elegibilidade para skilled visas gratuita
   - name: Honorários em R$
-    icon: fas fa-usd-circle
+    icon: fas fa-badge-dollar
     content: Nossos honorários são em R$, assim não há variação cambial e nem IOF
   - name: Faster Response
     icon: fas fa-tachometer-alt
