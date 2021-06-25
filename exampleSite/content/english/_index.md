@@ -46,21 +46,17 @@ service:
   - title: Valide o seu diploma na Austrália (skills assessment)
     images:
     - images/visas1.jpg
-    content: Nós orientamos e assessoramos nossos clientes  na obtenção da validação de suas qualificações e experiências profissionais(skills assessment) nos respectivos órgãos australianos responsáveis por esses procedimentos tais como Engineers Australia; Australian Computer Society; Vetassess;  Australian Dental Council; Australian Institute of Management; TRA e outros.Essa etapa do processo, é um dos pré-requisito para fazer a aplicação de qualquer modalidade de visto do programa Skilled Migration.
+    content: Nós orientamos e assessoramos nossos clientes  na obtenção da validação de suas qualificações e experiências profissionais(skills assessment) nos respectivos órgãos australianos responsáveis por esses procedimentos tais como Engineers Australia; Australian Computer Society; Vetassess;  Australian Dental Council; Australian Institute of Management; TRA e outros. Essa etapa do processo, é um dos pré-requisito para fazer a aplicação de qualquer modalidade de visto do programa Skilled Migration.
     button:
       enable: false
       label: Check it out
       link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: Valide o seu diploma na Austrália (skills assessment)
     images:
-    - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/visas1.jpg
+    content: Nós orientamos e assessoramos nossos clientes  na obtenção da validação de suas qualificações e experiências profissionais(skills assessment) nos respectivos órgãos australianos responsáveis por esses procedimentos tais como Engineers Australia; Australian Computer Society; Vetassess;  Australian Dental Council; Australian Institute of Management; TRA e outros. Essa etapa do processo, é um dos pré-requisito para fazer a aplicação de qualquer modalidade de visto do programa Skilled Migration.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: A company standing different from others
