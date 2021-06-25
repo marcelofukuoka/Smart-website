@@ -1,6 +1,6 @@
 ---
 banner:
-  title: A Smart Vistos é um escritório de imigração australiana, com sede em Campinas
+  title: ## A Smart Vistos é um escritório de imigração australiana, com sede em Campinas
     - Brasil. <br>
   image: images/
   content: Prestamos serviços de assessoria imigratória para pessoas interessadas
