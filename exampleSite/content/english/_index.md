@@ -29,15 +29,16 @@ feature:
     content: Procuramos atender aos nossos clientes sempre de uma maneira rápida
   - name: Depoimentos 
     icon: fas fa-grin-alt
-    content: Veja alguns <a href="url"><b><i>depoimentos</i></b></a> de clientes satisfeitos com a Smart Vistos
+    content: Veja alguns <a href="url"><i>depoimentos</i></a> de clientes satisfeitos com a Smart Vistos
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: A Smart Vistos surgiu com o intuito de oferecer um serviço especializado em imigração para a Austrália.
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
+    - images/visas1.jpg
+    - images/visas2.jpg
+    - images/visas3.jpg
+    - images/visas4.jpg
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
       sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
