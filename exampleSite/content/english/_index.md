@@ -43,10 +43,10 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: Valide o seu diploma na Austrália (skills assessment)
+  - title: Certificação(autenticação) de Documentos
     images:
     - images/visas1.jpg
-    content: Nós orientamos e assessoramos nossos clientes  na obtenção da validação de suas qualificações e experiências profissionais(skills assessment) nos respectivos órgãos australianos responsáveis por esses procedimentos tais como Engineers Australia; Australian Computer Society; Vetassess;  Australian Dental Council; Australian Institute of Management; TRA e outros. Essa etapa do processo, é um dos pré-requisito para fazer a aplicação de qualquer modalidade de visto do programa Skilled Migration.
+    content: A Smart Vistos disponibiliza aos seus clientes o serviço de certificação (autenticação) de cópias dos documentos originais, os quais serão enviados juntamente com a aplicação do visto ao Departamento de Imigração Australiano. Os documentos são certificados (autenticados) por um Agente Registrado de Imigração Australiana, o qual é um profissional autorizado pela legislação australiana a certificar (autenticar) documentos de caráter imigratório.
     button:
       enable: false
       label: Check it out
