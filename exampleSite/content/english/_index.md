@@ -14,7 +14,7 @@ feature:
   title: Something You Need To Know
   feature_item:
   - name: General Skilled Migration
-    icon: fas fa-badge-check
+    icon: fas fa-code
     content: Expertise em vistos para profissionais qualificados
   - name: Object Oriented
     icon: fas fa-object-group
