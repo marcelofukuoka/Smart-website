@@ -23,11 +23,15 @@ Regards,"
 
 Madelyn R.L. and Fernando, Partner Visa - June 2021
 
-#### _________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+" Não temos palavras para agradecer Marcelo por ter nos ajudado a realizar nosso sonho. Desde a primeira entrevista ele foi muito honesto, explicou com clareza todas etapas do processo e todas opções que tínhamos. O processo é longo e complicado e com certeza a melhor decisão é contar com o apoio de um agente com experiência e que te passa segurança, perdi a conta de quantos emails com dúvidas enviei e Marcelo sempre teve muita paciência para explicar tudo e nos mostrar quais caminhos deveríamos percorrer. Seguimos todos os passos que Marcelo sugeriu e por isso hoje realizamos nosso sonho.
+ 
+Muito obrigado Marcelo e Edjane, todo sucesso do mundo para vocês."
 
-#### Protection of  Personal- Information
+Fernanda e Diógenes, Skilled Visa - Dezembro 2020
+
+_________________________________________________________________________________________________________________________________
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
 
