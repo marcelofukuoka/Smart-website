@@ -10,7 +10,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: <h2>Something to know about Smart Vistos</h2>
+  title: Something to know about Smart Vistos
   feature_item:
   - name: Australian visas
     icon: fas fa-passport
@@ -38,9 +38,9 @@ service:
     - images/visas4.jpg
     - images/visas2.jpg
     - images/visas3.jpg
-    content: A aplicação e obtenção do seu visto australiano, seja esse um visto permanente ou temporário, você será sempre assessorado em todas as etapas do processo, por um Australian Registered Migration Agent.
+    content: Na aplicação e obtenção do seu visto australiano, seja esse um visto permanente ou temporário, você será sempre assessorado em todas as etapas do processo, por um Australian Registered Migration Agent.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: It is a privately owned Information and cyber security company
