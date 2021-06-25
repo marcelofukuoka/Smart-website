@@ -13,7 +13,7 @@ feature:
   title: Something You Need To Know
   feature_item:
   - name: Australian visas
-    icon: fas fa-globe
+    icon: fas fa-passport
     content: Expertise em skilled, business, parent e partner visas
   - name: Registered Migration Agent
     icon: fas fa-address-card
@@ -22,7 +22,7 @@ feature:
     icon: fas fa-file-alt
     content: Avaliação curricular de elegibilidade para skilled visas gratuita
   - name: Honorários em R$
-    icon: fas fa-badge-dollar
+    icon: fas fa-sack-dollar
     content: Nossos honorários são em R$, assim não há variação cambial e nem IOF
   - name: Faster Response
     icon: fas fa-tachometer-alt
