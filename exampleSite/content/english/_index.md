@@ -15,13 +15,13 @@ feature:
   - name: General Skilled Migration
     icon: fas fa-globe
     content: Expertise em vistos para profissionais qualificados
-  - name: Object Oriented
-    icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Australian Registered Migration Agent
+    icon: fas fa-address-card
+    content: Agente de Imigração com registro no<a href="https://www.mara.gov.au/">OMARA</a>
   - name: 24h Service
     icon: fas fa-user-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
+  - name: Honorários em R$
     icon: fas fa-heart
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Faster Response
