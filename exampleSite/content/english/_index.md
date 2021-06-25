@@ -33,7 +33,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: <h2>A Smart Vistos surgiu com a missão de oferecer um serviço especializado em imigração para a Austrália.</h2>
+  - title: <h2>A Smart Vistos surgiu com a missão de oferecer um serviço especializado em imigração para a Austrália</h2>
     images:
     - images/visas4.jpg
     - images/visas2.jpg
@@ -59,16 +59,14 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: A company standing different from others
+  - title: Traduções NAATI
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: A Smart Vistos faz a intermediação de traduções de documentos junto a tradutores NAATI (credenciados na Austrália), no intuito de proporcionar aos nossos clientes:
+    - Comodidade e rapidez nas traduções de documentos: português <> inglês
+    - Aceitabilidade dos documentos traduzidos via tradutor NAATI por órgãos australianos ou neozelandeses envolvidos no processo da aplicação do visto.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
 screenshot:
