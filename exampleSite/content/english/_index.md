@@ -35,10 +35,9 @@ service:
   service_item:
   - title: A Smart Vistos surgiu com o intuito de oferecer um serviço especializado em imigração para a Austrália.
     images:
-    - images/visas1.jpg
+    - images/visas4.jpg
     - images/visas2.jpg
     - images/visas3.jpg
-    - images/visas4.jpg
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
       sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
