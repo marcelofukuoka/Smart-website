@@ -10,7 +10,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something to know about Smart Vistos
+  title: <h3>Something to know about Smart Vistos</h3>
   feature_item:
   - name: Australian visas
     icon: fas fa-passport
@@ -33,7 +33,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: A Smart Vistos surgiu com o intuito de oferecer um serviço especializado em imigração para a Austrália.
+  - title: <h3>A Smart Vistos surgiu com o intuito de oferecer um serviço especializado em imigração para a Austrália.</h3>
     images:
     - images/visas4.jpg
     - images/visas2.jpg
