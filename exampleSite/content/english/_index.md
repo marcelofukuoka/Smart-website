@@ -13,7 +13,7 @@ feature:
   title: Something You Need To Know
   feature_item:
   - name: General Skilled Migration
-    icon: fas fa-code
+    icon: fal fa-globe
     content: Expertise em vistos para profissionais qualificados
   - name: Object Oriented
     icon: fas fa-object-group
