@@ -62,9 +62,7 @@ service:
   - title: Traduções NAATI
     images:
     - images/service-3.png
-    content: A Smart Vistos faz a intermediação de traduções de documentos junto a tradutores NAATI (credenciados na Austrália), no intuito de proporcionar aos nossos clientes:
-    - Comodidade e rapidez nas traduções de documentos: português <> inglês
-    - Aceitabilidade dos documentos traduzidos via tradutor NAATI por órgãos australianos ou neozelandeses envolvidos no processo da aplicação do visto.
+    content: A Smart Vistos faz a intermediação de traduções de documentos junto a tradutores NAATI (credenciados na Austrália), no intuito de proporcionar aos nossos clientes comodidade e rapidez nas traduções de documentos portugues <> inglês. Um outro ponto para destacar é a aceitabilidade dos documentos traduzidos via tradutor NAATI por instituições australianas. 
     button:
       enable: false
       label: Check it out
