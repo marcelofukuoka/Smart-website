@@ -75,11 +75,10 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: A Smart Vistos presta um serviço personalizado para clientes interessados na obtenção de vistos permanentes (permanent residence visas) e temporários (temporary visas) para a Austrália. Analisamos a situação de cada cliente através de uma entrevista, onde avaliamos as reais possibilidades de sucesso na obtenção de um determinado visto, seja esse temporário ou permanente. Sempre buscamos adotar a melhor solução e estratégia para a aplicação de seu visto junto ao departamento de imigração australiano. Oferecemos suporte e acompanhamento em toda a etapa do processo. 
   button:
     enable: true
     label: Contact Us
-    link: contact
+    link: https://smartvistos.netlify.app/contato/
 
 ---
