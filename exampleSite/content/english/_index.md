@@ -10,7 +10,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something To Know About Smart Vistos
+  title: Something to know about Smart Vistos
   feature_item:
   - name: Australian visas
     icon: fas fa-passport
