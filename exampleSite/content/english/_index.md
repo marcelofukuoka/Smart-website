@@ -33,16 +33,12 @@ feature:
 service:
   enable: true
   service_item:
-  - title: <h3>A Smart Vistos surgiu com o intuito de oferecer um serviço especializado em imigração para a Austrália.</h3>
+  - title: <h2>A Smart Vistos surgiu com o intuito de oferecer um serviço especializado em imigração para a Austrália.</h2>
     images:
     - images/visas4.jpg
     - images/visas2.jpg
     - images/visas3.jpg
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: A aplicação e obtenção do seu visto australiano, seja esse um visto permanente ou temporário, você será sempre assessorado em todas as etapas do processo, por um Australian Registered Migration Agent.
     button:
       enable: true
       label: Check it out
