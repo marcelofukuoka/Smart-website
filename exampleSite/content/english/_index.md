@@ -10,7 +10,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: <h3>Something to know about Smart Vistos</h3>
+  title: <h2>Something to know about Smart Vistos</h2>
   feature_item:
   - name: Australian visas
     icon: fas fa-passport
@@ -29,7 +29,7 @@ feature:
     content: Procuramos atender aos nossos clientes sempre de uma maneira rápida
   - name: Depoimentos 
     icon: fas fa-grin-alt
-    content: Veja alguns <a href="url"><i>depoimentos</i></a> de clientes satisfeitos com a Smart Vistos
+    content: Veja alguns <a href="url">depoimentos</a> de clientes satisfeitos com a Smart Vistos
 service:
   enable: true
   service_item:
