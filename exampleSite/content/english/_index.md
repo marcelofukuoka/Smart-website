@@ -45,7 +45,7 @@ service:
       link: "#"
   - title: Certificação(autenticação) de Documentos
     images:
-    - images/Australian_flag.jpg
+    - images/australia.svg
     content: A Smart Vistos disponibiliza aos seus clientes o serviço de certificação (autenticação) de cópias dos documentos originais, os quais serão enviados juntamente com a aplicação do visto ao Departamento de Imigração Australiano. Os documentos são certificados (autenticados) por um Agente Registrado de Imigração Australiana, o qual é um profissional autorizado pela legislação australiana a certificar (autenticar) documentos de caráter imigratório.
     button:
       enable: false
