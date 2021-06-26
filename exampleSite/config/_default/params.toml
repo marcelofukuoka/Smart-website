@@ -17,6 +17,10 @@ link = "contact"
 enable = false
 preloader = ""
 [[social]]
+icon = "fab fa-email"
+link = ""
+title = "e-mail"
+[[social]]
 icon = "fab fa-facebook"
 link = "https://www.facebook.com/smartvistos"
 title = "facebook"
