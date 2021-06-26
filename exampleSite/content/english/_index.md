@@ -53,7 +53,7 @@ service:
       link: "#"
   - title: Valide o seu diploma na Austrália (skills assessment)
     images:
-    - images/visas1.1.jpg
+    - images/visas1.2.jpg
     content: Nós orientamos e assessoramos nossos clientes  na obtenção da validação de suas qualificações e experiências profissionais(skills assessment) nos respectivos órgãos australianos responsáveis por esses procedimentos tais como Engineers Australia; Australian Computer Society; Vetassess;  Australian Dental Council; Australian Institute of Management; TRA e outros. Essa etapa do processo, é um dos pré-requisito para fazer a aplicação de qualquer modalidade de visto do programa Skilled Migration.
     button:
       enable: false
