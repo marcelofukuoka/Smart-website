@@ -17,9 +17,9 @@ link = "contact"
 enable = false
 preloader = ""
 [[social]]
-icon = "fab fa-phone"
+icon = "fab fa-telephone"
 link = "#"
-title = "phone"
+title = "telephone"
 [[social]]
 icon = "fab fa-envelope"
 link = "#"
