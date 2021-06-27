@@ -9,10 +9,10 @@ draft: false
 
 _________________________________________________________________________________________________________________________________
 
-    1. Empresa com sede em Campinas-SP.  Desde 2014 trabalhamos e atendemos nossos clientes no fuso horário de Brasília, de segunda à sexta, das 8:30 às 17:30.
+1. Empresa com sede em Campinas-SP.  Desde 2014 trabalhamos e atendemos nossos clientes no fuso horário de Brasília, de segunda à sexta, das 8:30 às 17:30.
  
 
-    2. Além de seguir todas as legislações australianas relacionada a conduta e exercício da profissão de um agente registrado de imigração, seguimos também as leis vigentes no Brasil.
+2. Além de seguir todas as legislações australianas relacionada a conduta e exercício da profissão de um agente registrado de imigração, seguimos também as leis vigentes no Brasil.
  
 
     3. Os valores de nossos honorários são definidos em REAIS (R$). Devido a isso, não há variação cambial e nem incidência de IOF nos pagamentos dos mesmos.
