@@ -46,7 +46,7 @@ service:
   - title: Certificação(autenticação) de Documentos
     images:
     - images/Coat_of_arms_of_Australia.svg
-    content: A Smart Vistos disponibiliza aos seus clientes o serviço de certificação (autenticação) de cópias dos documentos originais e quando solicitados serão enviados juntamente com a aplicação do visto ao <a href="https://immi.homeaffairs.gov.au/" target="_blank">Departamento de Imigração Australiano</a>. Os documentos são certificados (autenticados) por um Agente Registrado de Imigração Australiana, o qual é um profissional autorizado pela legislação australiana a certificar (autenticar) documentos de caráter imigratório.
+    content: A Smart Vistos disponibiliza aos seus clientes o serviço de certificação (autenticação) de cópias dos documentos originais e quando solicitados serão enviados juntamente com a aplicação do visto ao <a href="https://immi.homeaffairs.gov.au/" target="_blank">Departamento de Imigração Australiano</a>.<br> Os documentos são certificados (autenticados) por um Agente Registrado de Imigração Australiana, o qual é um profissional autorizado pela legislação australiana a certificar (autenticar) documentos de caráter imigratório.
     button:
       enable: false
       label: Check it out
@@ -54,7 +54,7 @@ service:
   - title: Valide o seu diploma na Austrália (skills assessment)
     images:
     - images/visas1.2.jpg
-    content: Nós orientamos e assessoramos nossos clientes  na obtenção da validação de suas qualificações e experiências profissionais(skills assessment) nos respectivos órgãos australianos responsáveis por esses procedimentos tais como <a href="https://www.engineersaustralia.org.au/" target="_blank">Engineers Australia</a>; <a href="https://www.acs.org.au/" target="_blank"> Australian Computer Society</a>; <a href="https://www.vetassess.com.au/" target="_blank"> Vetassess</a>; <a href="https://www.adc.org.au/" target="_blank"> Australian Dental Council</a> ; <a href="https://www.aaca.org.au/" target="_blank"> Architects Accreditation Council of Australia </a>; <a href="https://www.tradesrecognitionaustralia.gov.au/" target="_blank"> Trades Recognition Australia</a> e outros. Essa etapa do processo, é um dos pré-requisito para fazer a aplicação de qualquer modalidade de visto do programa Skilled Migration.
+    content: Nós orientamos e assessoramos nossos clientes  na obtenção da validação de suas qualificações e experiências profissionais(skills assessment) nos respectivos órgãos australianos responsáveis por esses procedimentos tais como <a href="https://www.engineersaustralia.org.au/" target="_blank">Engineers Australia</a>; <a href="https://www.acs.org.au/" target="_blank"> Australian Computer Society</a>; <a href="https://www.vetassess.com.au/" target="_blank"> Vetassess</a>; <a href="https://www.adc.org.au/" target="_blank"> Australian Dental Council</a> ; <a href="https://www.aaca.org.au/" target="_blank"> Architects Accreditation Council of Australia </a>; <a href="https://www.tradesrecognitionaustralia.gov.au/" target="_blank"> Trades Recognition Australia</a> e outros.<br> Essa etapa do processo, é um dos pré-requisito para fazer a aplicação de qualquer modalidade de visto do programa Skilled Migration.
     button:
       enable: false
       label: Check it out
@@ -62,7 +62,7 @@ service:
   - title: Traduções NAATI
     images:
     - images/australia.svg
-    content: A Smart Vistos faz a intermediação de traduções de documentos junto a tradutores <a href="https://www.naati.com.au/" target="_blank">NAATI</a> (credenciados na Austrália), no intuito de proporcionar aos nossos clientes comodidade e rapidez nas traduções de documentos portugues <> inglês. Um outro ponto para destacar é a aceitabilidade dos documentos traduzidos via tradutor <a href="https://www.naati.com.au/" target="_blank">NAATI</a> por instituições australianas. 
+    content: A Smart Vistos faz a intermediação de traduções de documentos junto a tradutores <a href="https://www.naati.com.au/" target="_blank">NAATI</a> (credenciados na Austrália), no intuito de proporcionar aos nossos clientes comodidade e rapidez nas traduções de documentos portugues <> inglês.<br> Um outro ponto para destacar é a aceitabilidade dos documentos traduzidos via tradutor <a href="https://www.naati.com.au/" target="_blank">NAATI</a> por instituições australianas. 
     button:
       enable: false
       label: Check it out
@@ -75,7 +75,7 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: images/australia.svg
-  content: A Smart Vistos presta um serviço personalizado para clientes interessados na obtenção de vistos permanentes (permanent residence visas) e temporários (temporary visas) para a Austrália. Analisamos a situação de cada cliente através de uma entrevista, onde avaliamos as reais possibilidades de sucesso na obtenção de um determinado visto, seja esse temporário ou permanente. Sempre buscamos adotar a melhor solução e estratégia para a aplicação de seu visto junto ao departamento de imigração australiano. Oferecemos suporte e acompanhamento em toda a etapa do processo. 
+  content: A Smart Vistos presta um serviço personalizado para clientes interessados na obtenção de vistos permanentes (permanent residence visas) e temporários (temporary visas) para a Austrália. Analisamos a situação de cada cliente através de uma entrevista, onde avaliamos as reais possibilidades de sucesso na obtenção de um determinado visto, seja esse temporário ou permanente.<br> Sempre buscamos adotar a melhor solução e estratégia para a aplicação de seu visto junto ao departamento de imigração australiano. Oferecemos suporte e acompanhamento em toda a etapa do processo. 
   button:
     enable: true
     label: Contact Us
