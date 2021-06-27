@@ -1,6 +1,6 @@
 ---
-title: "A Smart Vistos"
-subtitle: "<h3>A Smart Vistos oferece aos seus clientes:</h3>"
+title: 
+subtitle: "<h2>A Smart Vistos oferece aos seus clientes:</h2>"
 # meta description
 description: "This is meta description"
 draft: false
