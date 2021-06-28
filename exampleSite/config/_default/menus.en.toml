@@ -1,12 +1,12 @@
 [[footer_left]]
-name = "Quem somos"
-url = "https://smartvistos.netlify.app/empresa/"
+name = "Agente de Imigração"
+url = "https://smartvistos.netlify.app/agente-de-imigracao/"
 [[footer_left]]
 name = "Equipe"
 url = "https://smartvistos.netlify.app/equipe/"
 [[footer_left]]
-name = "Agente de Imigração"
-url = "https://smartvistos.netlify.app/agente-de-imigracao/"
+name = "Quem somos"
+url = "https://smartvistos.netlify.app/empresa/"
 [[footer_middle]]
 name = "Pricing"
 url = "pricing"
