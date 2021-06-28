@@ -2,10 +2,8 @@
 title: 
 subtitle: "<h2>A Smart Vistos oferece aos seus clientes:</h2>"
 description: This is meta description
-
-<h3>A Smart Vistos proporciona desde 2014 um serviço especializado em assessoria imigratória australiana para clientes residentes no Brasil e Austrália.</h3>
 ---
-***
+A Smart Vistos proporciona desde 2014 um serviço especializado em assessoria imigratória australiana para clientes residentes no Brasil e Austrália.
 
 1. Empresa com sede em Campinas-SP.  Desde 2014 trabalhamos e atendemos nossos clientes no fuso horário de Brasília, de segunda à sexta, das 8:30 às 17:30.
 2. Além de seguir todas as legislações australianas relacionada a conduta e exercício da profissão de um agente registrado de imigração, seguimos também as leis vigentes no Brasil.
@@ -16,5 +14,3 @@ description: This is meta description
 7. Nós elaboramos um parecer (Submission Letter) abordando todos os critérios legislativos e enviamos juntamente com a aplicação do visto.
 8. Desde a entrevista inicial e no decorrer de todo o processo da aplicação do visto, o cliente sempre será assessorado baseado na legislação imigratória vigente.
 9. Sólida experiência na assessoria a clientes que desejam aplicar para alguma modalidade de visto australiano.
-
-***
