@@ -1,6 +1,6 @@
 ---
 title: 
-subtitle: "<h3>A Smart Vistos proporciona desde 2014 um serviço especializado em assessoria imigratória australiana para clientes residentes no Brasil e Austrália.</h3>"
+subtitle: "<h3>A Smart Vistos proporciona desde 2014 um serviço especializado em assessoria<br>imigratória australiana para clientes residentes no Brasil e Austrália.</h3>"
 description: This is meta description
 ---
 ***
