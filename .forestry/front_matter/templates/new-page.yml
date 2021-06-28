@@ -12,4 +12,5 @@ fields:
   name: description
   label: meta description
 pages:
+- exampleSite/content/english/agente-de-imigracao.md
 - exampleSite/content/english/equipe.md
