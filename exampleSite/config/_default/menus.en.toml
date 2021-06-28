@@ -6,7 +6,7 @@ name = "Equipe"
 url = "https://smartvistos.netlify.app/equipe/"
 [[footer_left]]
 name = "Agente de Imigração"
-url = "pricing"
+url = "https://smartvistos.netlify.app/agente-de-imigracao/"
 [[footer_middle]]
 name = "Pricing"
 url = "pricing"
