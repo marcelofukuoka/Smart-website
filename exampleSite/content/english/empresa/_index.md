@@ -3,6 +3,7 @@ title:
 subtitle: "<h2>A Smart Vistos oferece aos seus clientes:</h2>"
 description: This is meta description
 
+<h3>A Smart Vistos proporciona desde 2014 um serviço especializado em assessoria imigratória australiana para clientes residentes no Brasil e Austrália.</h3>
 ---
 ***
 
@@ -17,9 +18,3 @@ description: This is meta description
 9. Sólida experiência na assessoria a clientes que desejam aplicar para alguma modalidade de visto australiano.
 
 ***
-
-" Não temos palavras para agradecer Marcelo por ter nos ajudado a realizar nosso sonho. Desde a primeira entrevista ele foi muito honesto, explicou com clareza todas etapas do processo e todas opções que tínhamos. O processo é longo e complicado e com certeza a melhor decisão é contar com o apoio de um agente com experiência e que te passa segurança, perdi a conta de quantos emails com dúvidas enviei e Marcelo sempre teve muita paciência para explicar tudo e nos mostrar quais caminhos deveríamos percorrer. Seguimos todos os passos que Marcelo sugeriu e por isso hoje realizamos nosso sonho.
-
-Muito obrigado Marcelo e Edjane, todo sucesso do mundo para vocês."
-
-Fernanda e Diógenes, Skilled Visa - Dezembro 202
