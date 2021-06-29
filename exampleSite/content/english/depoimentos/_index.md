@@ -168,9 +168,9 @@ Fernando R.R.B., Skilled Visa - Setembro 2018
 _________________________________________________________________________________________________________________________________
 
 "Após alguns anos com projetos de mudança do Brasil para outro país, na segunda metade de 2017, a Austrália tornou-se nosso foco principal. Não lembro como chegamos na Smart Vistos, imagino que tenha sido uma resposta muito fortuita do Google, pois definitivamente foi o que tornou nosso sonho de Austrália uma realidade.
- 
+
 Nosso visto saiu em poucos meses o que, viemos a saber em visita recente a Austrália, é algo dificílimo e comparado por alguns a ganhar sozinho na loteria. Isso certamente não seria remotamente possível sem a orientação valiosíssima que tivemos. Revendo as mensagens que troquei com minha esposa na época surgem palavras que perecem tiradas de uma propaganda: Organização, disponibilidade, qualidade do atendimento, transparência...
- 
+
 Agradecemos constantemente por essa conspiração positiva do universo!"
 
 Marcelo e Natalie, Skilled Visa - Agosto 2018
@@ -208,7 +208,7 @@ Pedro C.S., Skilled Visa - Fevereiro 2018
 
 _________________________________________________________________________________________________________________________________
 
-"Tivemos muita sorte por ter o Marcelo como nosso agente e Edjane como nosso primeiro contato em todos os momentos do processo! 
+"Tivemos muita sorte por ter o Marcelo como nosso agente e Edjane como nosso primeiro contato em todos os momentos do processo!
 Todas as etapas explicadas em detalhes desde o início e com muita precisão em suas orientações. Recomendamos muito seu trabalho, especialmente pelo seu profissionalismo e atenção.
 Muito obrigado, Marcelo e Edjane pela paciência em nos atender em um momento de tanta ansiedade e grande mudança."
 
@@ -216,3 +216,51 @@ Karen e Antonio, Skilled Visa - Janeiro 2018
 
 _________________________________________________________________________________________________________________________________
 
+" Tenho muito a agradecer os serviços prestados pela Smart Vistos, pessoas muito prestativas que conseguiu fazer com que o meu sonho e o da minha família tornasse realidade. Eles vibram e torcem junto com a gente foi impressionante esta experiência. Todos os momentos que necessitávamos de ajuda as repostas eram no mesmo dia, ou quando mais complexas no dia posterior, isso nos tranquilizou bastante devido este processo nos deixar muito ansiosos, respostas rápidas acalmam bastante no momento. E também todas as vezes em que todos os documentos estavam OK da nossa parte, eles faziam com que a parte deles nunca deixasse a desejar, todas as minhas aplicações foram sempre assertivas. Eu e minha família somos e seremos sempre muito gratos pela equipe da Smart Vistos. Desejo sucesso e continuarei indicando para muitos os serviços deles prestados. Um grande abraço."
+
+Tâmara, Marcos e Breno, Skilled Visa - Novembro 2017
+
+_________________________________________________________________________________________________________________________________
+
+" Quando resolvemos tomar medidas para concretizar o sonho de ir morar na Austrália, encontramos a  Smart Vistos através do cadastro da MARA, onde o Marcelo é um dos poucos profissionais no Brasil qualificados, e bem próximo de nós. O Marcelo conduziu todo o processo com muito profissionalismo, desde a entrevista inicial, quando entendemos qual seria o caminho com maior probabilidade de sucesso e as implicações dessa decisão, até a concessão final do visto, passando pela avaliação do órgão avaliador (no caso a ACS), a contagem final dos pontos, a submissão da expressão de interesse e  a longa espera pelo aguardado resultado positivo. Sem os serviços da Smart Vistos, teríamos tido muito mais ansiedade e cometido muitos erros, e tudo teria tomado muito mais tempo, com resultados incertos. Realmente recomendamos os serviços da Smart Vistos."
+
+Claudio A.T., Skilled Visa - Outubro 2017
+
+_________________________________________________________________________________________________________________________________
+
+"O Marcelo sempre foi um profissional muito atencioso e claro em suas explicações. Desde o princípio, nunca omitiu ou poupou informações e nos guiou de forma muito objetiva durante todo o processo do visto. Todo o contrato de serviço foi seguido fielmente, sem surpresas, e nos sentimos muito confiantes com seu apoio, mesmo com o prazo de emissão do visto ter aumentado consideravelmente em comparação com a média que vinha apresentando nos últimos meses, o que ocorreu exclusivamente por causa do serviço de imigração australiana. Felizmente, nosso visto de trabalho permanente acabou de ser emitido e estamos nos preparativos finais para embarcar para a Austrália. Portanto, indico a Smart Vistos para todos meus conhecidos e desejo sucesso para a empresa."
+
+Otávio e Karen, Skilled Visa - Setembro 2017
+
+_________________________________________________________________________________________________________________________________
+
+"Após tomar a decisão de me mudar para a Austrália, iniciei uma intensa pesquisas para saber como fazer para tirar o visto, entrei em fóruns, pesquisei empresas e principalmente o consulado Australiano. Por semanas li depoimentos de pessoas frustradas, insatisfeitas com os serviços prestados pelas empresas de imigração e isso me deixou não somente assustada como também insegura na contratação, pois não é um processo barato. E foi por isso que resolvi confiar no site do consulado. Nele encontrei poucas pessoas brasileiras cadastradas, com empresa sediada no Brasil para dar suporte ao processo de visto, e foi aí que conheci a Smart Vistos.
+
+Meu processo não foi rápido, tão pouco fácil, passamos por um bloco negado (VETASSESS - Landscape Architect), mas demos a volta por cima, aplicamos para uma revisão com mais documentos e tudo deu certo! Posso dizer que a Smart Vistos é uma empresa que abraça a causa, te acompanha nos momentos altos e baixos, e que se importa. Todos são muito solícitos, pacientes, gentis e esforçados em garantir as melhores soluções para que tudo de certo.
+
+Sou muito grata a todos vocês! Vocês me ajudaram a dar um passo gigantesco em minha vida e hoje vejo que foi a melhor decisão que tomei.
+
+Muito obrigada a todos vocês!"
+
+Carolina Z., Skilled Visa - Setembro 2017
+
+_________________________________________________________________________________________________________________________________
+
+" Quando decidi me mudar para a Austrália, sabia que precisava buscar informações sobre todas as possibilidades de se conseguir o visto permanente.E, apesar de parecer mais barato fazer tudo por conta própria, tenho certeza que economizei muito tempo ao procurar um agente imigratório.
+
+Ao procurar o Marcelo, da Smart Vistos, muitas informações foram bastante esclarecedora sobre o processo para obter a residência permanente, e consegui traçar um plano para conseguir a residência permanente o mais rápido possível.
+
+Ótimo serviço e informações realmente relevantes para agilizar o processo do visto. Recomendo! "
+
+Fernando K.K., Skilled Visa - Julho 2017
+
+_________________________________________________________________________________________________________________________________
+
+" Inicialmente sempre temos a dúvida sobre o custo/benefício de contratar os serviços de um agente de imigração, pois os custos são sem dúvida relevantes. No caso específico da Smart Vistos posso assegurar, sem sombra de dúvidas, que os benefícios foram muito superiores aos custos.
+Em primeiro lugar, de uma forma geral, acho importante pensar nessa contratação como um seguro, ou seja, estamos pagando para nos proteger de erros ou acidentes, pois se eu estivesse fazendo tudo sozinho e cometesse um erro ou houvesse qualquer imprevisto no meio do caminho, os custos certamente seriam muito maiores do que o valor cobrado pela Smart Vistos. Portanto, prefiro pagar um pouco mais pelo processo como um todo, mas ter a segurança que o custo total estará sempre sob controle, do que correr o risco de achar que vou gastar menos sem o agente, mas no final acabar saindo muito mais caro do que o previsto.
+Agora, falando especificamente do serviço prestado pela Smart Vistos e pelo Marcelo, fiquei muito satisfeito porque desde o primeiro momento eu percebi que ele sempre se preocupou em realmente encontrar as melhores alternativas para as minhas necessidades e de acordo com meu histórico pessoal e profissional. Há vários caminhos para essa imigração, e cada caminho tem suas variações, por isso o conhecimento e disposição do Marcelo em me guiar por esse labirinto foi fundamental para que eu sempre tivesse a tranquilidade de estar fazendo as escolhas corretas, inclusive com correções de rotas durante o percurso que se mostraram muito acertadas.
+Ao final tudo deu certo, dentro do custo que foi previsto desde o início, sem surpresas. Só tenho a agradecer! "
+
+Lucas M.G., Skilled Visa - Julho 2017
+
+_________________________________________________________________________________________________________________________________
