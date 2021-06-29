@@ -11,4 +11,4 @@ Sócio-Diretor na Smart Vistos.
 
 <b>Edjane Cristina Alves.</b> Bacharel em Administração de Empresas pela Universidade Salesiana-UNISAL. Possui mais de 20 anos de experiência em áreas administrativas e financeiras nas seguintes companhias: Schneider Electric, KS Pistões e Pastifício Selmi.
 Coordenadora Administrativa na Smart Vistos.  
-[*Linkedin Edjane*]
+[*Linkedin Edjane*](https://www.linkedin.com/in/edjane-alves-585919b0/)
