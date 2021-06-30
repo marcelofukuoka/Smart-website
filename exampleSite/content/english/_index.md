@@ -67,16 +67,16 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: Valide o seu diploma na Austrália (skills assessment)
+  - title: Ready to get started?
     images:
-    - images/visas1.2.jpg
-    content: Nós orientamos e assessoramos nossos clientes  na obtenção da validação de suas qualificações e experiências profissionais(skills assessment) nos respectivos órgãos australianos responsáveis por esses procedimentos tais como <a href="https://www.engineersaustralia.org.au/" target="_blank">Engineers Australia</a>; <a href="https://www.acs.org.au/" target="_blank"> Australian Computer Society</a>; <a href="https://www.vetassess.com.au/" target="_blank"> Vetassess</a>; <a href="https://www.adc.org.au/" target="_blank"> Australian Dental Council</a> ; <a href="https://www.aaca.org.au/" target="_blank"> Architects Accreditation Council of Australia </a>; <a href="https://www.tradesrecognitionaustralia.gov.au/" target="_blank"> Trades Recognition Australia</a> e outros.<br> Essa etapa do processo, é um dos pré-requisito para fazer a aplicação de qualquer modalidade de visto do programa Skilled Migration.
+    - images/mara-reg.jpg
+    content: A Smart Vistos presta um serviço personalizado para clientes interessados na obtenção de vistos permanentes (permanent residence visas) e temporários (temporary visas) para a Austrália.<br> Analisamos a situação de cada cliente através de uma entrevista, onde avaliamos as reais possibilidades de sucesso na obtenção de um determinado visto, seja esse temporário ou permanente.<br> Sempre buscamos adotar a melhor solução e estratégia para a aplicação de seu visto junto ao departamento de imigração australiano. Oferecemos suporte e acompanhamento em toda a etapa do processo.
     button:
      enable: false
      label: Check it out
      link: "#"
 call_to_action:
-  enable: true
+  enable: false
   title: Ready to get started?
   image: mara-reg.jpg
   content: A Smart Vistos presta um serviço personalizado para clientes interessados na obtenção de vistos permanentes (permanent residence visas) e temporários (temporary visas) para a Austrália.<br> Analisamos a situação de cada cliente através de uma entrevista, onde avaliamos as reais possibilidades de sucesso na obtenção de um determinado visto, seja esse temporário ou permanente.<br> Sempre buscamos adotar a melhor solução e estratégia para a aplicação de seu visto junto ao departamento de imigração australiano. Oferecemos suporte e acompanhamento em toda a etapa do processo. 
