@@ -30,10 +30,6 @@ name = "Home"
 url = "/"
 weight = 1
 [[main]]
-name = "Imigração"
-url = "imigração"
-weight = 2
-[[main]]
 name = "Vistos"
 url = "vistos "
 weight = 3
