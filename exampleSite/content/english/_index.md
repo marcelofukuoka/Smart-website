@@ -72,7 +72,7 @@ screenshot:
   title: Experience the best <br> workflow with us
   image: images/screenshot.svg
 call_to_action:
-  enable: true
+  enable: false
   title: Ready to get started?
   images: 
   - images/mara-reg.jpg
