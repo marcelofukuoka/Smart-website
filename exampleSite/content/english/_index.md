@@ -70,6 +70,7 @@ service:
   - title: Ready to get started?
     images:
     - images/mara-reg.jpg
+    - images/MIA_Member_Black_2.jpg
     content: A Smart Vistos presta um serviço personalizado para clientes interessados na obtenção de vistos permanentes (permanent residence visas) e temporários (temporary visas) para a Austrália.<br> Analisamos a situação de cada cliente através de uma entrevista, onde avaliamos as reais possibilidades de sucesso na obtenção de um determinado visto, seja esse temporário ou permanente.<br> Sempre buscamos adotar a melhor solução e estratégia para a aplicação de seu visto junto ao departamento de imigração australiano. Oferecemos suporte e acompanhamento em toda a etapa do processo.
     button:
      enable: false
