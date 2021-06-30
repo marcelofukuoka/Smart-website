@@ -23,12 +23,14 @@
       </div>
       <div class="col-md-3 col-sm-6 mb-5">
         {{ if site.Menus.footer_right }}
-        <div class="h3 mb-4">{{ site.Params.footer_menu_right }}</div>
-        <ul class="list-unstyled footer-list">
-          {{ range site.Menus.footer_right }}
-          <li><a href="{{ .URL | relLangURL }}" title="{{ .Name }}">{{ .Name }}</a></li>
-          {{ end }}
-        </ul>
+        <div class="row">
+          <div class="column">
+            <img src="mara-reg.jpg" alt="MARA" style="width:100%">
+          </div>
+          <div class="column">
+            <img src="MIA_Member_Black_2.jpg" alt="MIA" style="width:100%">
+          </div>
+        
         {{ end }}
       </div>
       <div class="col-md-3 col-sm-6 mb-5">
