@@ -67,11 +67,7 @@ service:
       enable: false
       label: Check it out
       link: "#"
-screenshot:
-  enable: false
-  title: Experience the best <br> workflow with us
-  image: images/screenshot.svg
-   title: Valide o seu diploma na Austrália (skills assessment)
+-   title: Valide o seu diploma na Austrália (skills assessment)
    images:
    - images/visas1.2.jpg
    content: Nós orientamos e assessoramos nossos clientes  na obtenção da validação de suas qualificações e experiências profissionais(skills assessment) nos respectivos órgãos australianos responsáveis por esses procedimentos tais como <a href="https://www.engineersaustralia.org.au/" target="_blank">Engineers Australia</a>; <a href="https://www.acs.org.au/" target="_blank"> Australian Computer Society</a>; <a href="https://www.vetassess.com.au/" target="_blank"> Vetassess</a>; <a href="https://www.adc.org.au/" target="_blank"> Australian Dental Council</a> ; <a href="https://www.aaca.org.au/" target="_blank"> Architects Accreditation Council of Australia </a>; <a href="https://www.tradesrecognitionaustralia.gov.au/" target="_blank"> Trades Recognition Australia</a> e outros.<br> Essa etapa do processo, é um dos pré-requisito para fazer a aplicação de qualquer modalidade de visto do programa Skilled Migration.
