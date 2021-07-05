@@ -1,12 +1,12 @@
 [[footer_left]]
 name = "Quem somos"
-url = "https://smartvistos.netlify.app/empresa/"
+url = "https://smartvistos.com.br/empresa/"
 [[footer_left]]
 name = "Equipe"
-url = "https://smartvistos.netlify.app/equipe/"
+url = "https://smartvistos.com.br/equipe/"
 [[footer_left]]
 name = "Agente de Imigração"
-url = "https://smartvistos.netlify.app/agente-de-imigracao/"
+url = "https://smartvistos.com.br/agente-de-imigracao/"
 [[footer_middle]]
 name = "General Skilled Migration"
 url = "#"
@@ -17,14 +17,11 @@ url = "#"
 name = "Partner visas"
 url = "#"
 [[footer_right]]
-name = "Política de privacidade"
-url = "privacy-policy"
-[[footer_right]]
 name = "Telefone"
-url = "faq"
+url = "https://smartvistos.com.br/contato/"
 [[footer_right]]
 name = "Endereço comercial"
-url = "terms-conditions"
+url = "https://smartvistos.com.br/contato/"
 [[main]]
 name = "Home"
 url = "/"
