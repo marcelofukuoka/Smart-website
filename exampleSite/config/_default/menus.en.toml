@@ -17,13 +17,13 @@ url = "#"
 name = "Partner visas"
 url = "#"
 [[footer_right]]
-name = "Privacy Policy"
+name = "Política de privacidade"
 url = "privacy-policy"
 [[footer_right]]
-name = "Terms & Conditions"
+name = "Endereço comercial"
 url = "terms-conditions"
 [[footer_right]]
-name = "FAQ"
+name = "Telefone"
 url = "faq"
 [[main]]
 name = "Home"
