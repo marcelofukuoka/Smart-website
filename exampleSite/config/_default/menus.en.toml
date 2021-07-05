@@ -20,11 +20,11 @@ url = "#"
 name = "Política de privacidade"
 url = "privacy-policy"
 [[footer_right]]
-name = "Endereço comercial"
-url = "terms-conditions"
-[[footer_right]]
 name = "Telefone"
 url = "faq"
+[[footer_right]]
+name = "Endereço comercial"
+url = "terms-conditions"
 [[main]]
 name = "Home"
 url = "/"
