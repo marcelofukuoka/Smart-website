@@ -29,7 +29,7 @@ feature:
     content: Procuramos atender aos nossos clientes sempre de uma maneira rápida
   - name: Depoimentos 
     icon: fas fa-grin-alt
-    content: Veja alguns <a href="url">depoimentos</a> de clientes satisfeitos com a Smart Vistos
+    content: Veja alguns <a href="https://www.smartvistos.com.br/depoimentos/">depoimentos</a> de clientes satisfeitos com a Smart Vistos
 service:
   enable: true
   service_item:
