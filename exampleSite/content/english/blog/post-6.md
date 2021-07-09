@@ -1,8 +1,7 @@
 ---
 title: "South Australia Business & Investment Program 2021-22"
 date: 2021-07-09
-# post image entre ""
-image: 
+
 # post type (regular/featured)
 type: "regular"
 # meta description
