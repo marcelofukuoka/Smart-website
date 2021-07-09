@@ -39,6 +39,10 @@ name = "Depoimentos"
 url = "depoimentos"
 weight = "5"
 [[main]]
+name = "Blog"
+url = "blog"
+weight = "6"
+[[main]]
 name = "Contato"
 url = "contato"
-weight = "6"
+weight = "7"
