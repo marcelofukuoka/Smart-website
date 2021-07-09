@@ -23,10 +23,6 @@ url = "https://smartvistos.com.br/contato/"
 name = "Endereço comercial"
 url = "https://smartvistos.com.br/contato/"
 [[main]]
-name = "Blog"
-url = "blog"
-weight = "6"
-[[main]]
 name = "Home"
 url = "/"
 weight = 1
@@ -42,6 +38,10 @@ weight = "4"
 name = "Depoimentos"
 url = "depoimentos"
 weight = "5"
+[[main]]
+name = "Blog"
+url = "blog"
+weight = "6"
 [[main]]
 name = "Contato"
 url = "contato"
