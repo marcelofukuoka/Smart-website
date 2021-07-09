@@ -1,8 +1,8 @@
 ---
 title: "South Australia Business & Investment Program 2021-22"
 date: 2021-07-09
-# post image
-image: ""
+# post image entre ""
+image: 
 # post type (regular/featured)
 type: "regular"
 # meta description
@@ -12,7 +12,7 @@ draft: false
 ---
 
 
-## Business & Investor visas subclass 188
+### Business & Investor visas subclass 188
 
 Para o novo ano fiscal 2021-22 que começou em 01/07/20221, South Australia removeu duas etapas do processo de inscrição usado no ano do programa anterior de 2020-21.
 
