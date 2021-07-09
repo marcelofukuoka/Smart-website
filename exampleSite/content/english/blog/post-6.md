@@ -13,7 +13,7 @@ draft: false
 
 ### Business & Investor visas subclass 188
 
-Para o novo ano fiscal 2021-22 que começou em 01/07/20221, South Australia removeu duas etapas do processo de inscrição usado no ano do programa anterior de 2020-21.
+Para o novo ano fiscal 2021-22 que começou em 01/07/2021, South Australia removeu duas etapas do processo de inscrição usado no ano do programa anterior de 2020-21.
 
 Foi removida a visita exploratória inicial a South Australia e também a remoção da exigência de enviar um formulário de "Intenção de Aplicar" (ITA) para o ano fiscal de 2021-22.
 
