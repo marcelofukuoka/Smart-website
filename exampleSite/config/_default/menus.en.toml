@@ -1,21 +1,24 @@
 [[footer_left]]
-name = "Quem somos"
-url = "https://smartvistos.com.br/empresa/"
+name = "General Skilled Migration"
+url = "https://www.smartvistos.com.br/vistos/profissionais-qualificados"
 [[footer_left]]
-name = "Equipe"
-url = "https://smartvistos.com.br/equipe/"
+name = "Global Talent visa"
+url = "#"
 [[footer_left]]
+name = "Business e Investor visas"
+url = "#"
+[[footer_left]]
+name = "Partner visas"
+url = "#"
+[[footer_middle]]
 name = "Agente de Imigração"
 url = "https://smartvistos.com.br/agente-de-imigracao/"
 [[footer_middle]]
-name = "General Skilled Migration"
-url = "https://www.smartvistos.com.br/vistos/profissionais-qualificados"
+name = "Quem somos"
+url = "https://www.smartvistos.com.br/empresa/"
 [[footer_middle]]
-name = "Global Talent visa"
-url = "#"
-[[footer_middle]]
-name = "Partner visas"
-url = "#"
+name = "Equipe"
+url = "https://smartvistos.com.br/equipe/"
 [[footer_right]]
 name = "Entrevista Inicial"
 url = "https://smartvistos.com.br/contato/"
