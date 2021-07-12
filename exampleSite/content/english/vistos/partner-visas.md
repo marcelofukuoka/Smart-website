@@ -6,6 +6,9 @@ draft: false
 ---
 ### A aplicação para um visto de cônjuge (partner visa) é um processo de duas etapas
 
+Inicialmente, se a aplicação para um “partner visa” for aprovada, ao pretendente será emitido o visto provisório e após
+o período de aproximadamente 2 anos, se o pretendente ainda estiver em relacionamento com o parceiro(a) Australiano(a), será emitido o visto subclasse permanente.
+
 ***
 
 #### Para candidatos fora da Austrália (partner visa 309/100)
