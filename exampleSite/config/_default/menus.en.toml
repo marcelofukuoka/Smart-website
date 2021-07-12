@@ -5,13 +5,13 @@ url = "https://www.smartvistos.com.br/vistos/profissionais-qualificados"
 name = "Global Talent visa"
 url = "#"
 [[footer_left]]
-name = "Business e Investor visas"
+name = "Investor e Business visas"
 url = "#"
 [[footer_left]]
 name = "Partner visas"
 url = "#"
 [[footer_middle]]
-name = "Agente de Imigração"
+name = "Registered Migration Agent"
 url = "https://smartvistos.com.br/agente-de-imigracao/"
 [[footer_middle]]
 name = "Quem somos"
