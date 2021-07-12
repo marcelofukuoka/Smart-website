@@ -1,5 +1,5 @@
 ---
-title: "<h2>General Skilled Migration visas</h2>"
+title: "General Skilled Migration visas</h2>"
 subtitle: "<h3>Vistos para profissionais qualificados</h3>"
 description: "Vistos australianos para profissionais qualificados"
 draft: false
