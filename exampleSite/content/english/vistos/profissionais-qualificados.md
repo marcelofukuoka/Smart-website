@@ -31,7 +31,7 @@ Os pré-requisitos mínimos exigidos pelo Skilled Nominated Visa são:
 
 ***
 
-#### O Skilled Work Regional Visa (subclass 491) é um visto provisório com validade de 5 anos. Esse visto abre caminho para a obtenção de um visto permanente. 
+#### O Skilled Work Regional Visa (subclass 491) é um visto provisório com validade de 5 anos. Esse visto abre caminho para a obtenção de um visto permanente
 
 Os pré-requisitos mínimos exigidos pelo Skilled Work Regional Visa são:
 
