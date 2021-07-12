@@ -1,4 +1,7 @@
 [[footer_left]]
+name = "Investor e Business visas"
+url = ""
+[[footer_left]]
 name = "General Skilled Migration"
 url = "https://www.smartvistos.com.br/vistos/profissionais-qualificados"
 [[footer_left]]
@@ -7,6 +10,9 @@ url = "#"
 [[footer_left]]
 name = "Partner visas"
 url = "#"
+[[footer_middle]]
+name = "Registered Migration Agent"
+url = "https://www.smartvistos.com.br/agente-de-imigracao/"
 [[footer_middle]]
 name = "Quem somos"
 url = "https://www.smartvistos.com.br/empresa/"
