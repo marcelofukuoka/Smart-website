@@ -1,5 +1,5 @@
 ---
-title: "Visto de Trabalho subclasse 482"
+title: <h2>"Visto de Trabalho subclasse 482"</h2>
 subtitle: "<h3>Visto de sponsor 482</h3>"
 description: "Visto de trabalho para a Austrália"
 draft: false

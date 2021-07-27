@@ -1,5 +1,5 @@
 ---
-title: "Partner visas"
+title: <h2>"Partner visas"</h2>
 subtitle: "<h3>Vistos para cônjuge</h3>"
 description: "Vistos australianos para partner"
 draft: false
