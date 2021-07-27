@@ -1,5 +1,5 @@
 ---
-title: <h2>"Temporary Graduate Visa"</h2>
+title: "Temporary Graduate Visa"
 subtitle: "<h3>Vistos para recém-formado</h3>"
 description: "Vistos australianos para estudantes recém-formado"
 draft: false
