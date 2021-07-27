@@ -1,6 +1,6 @@
 ---
-title: "Visto de Trabalho subclasse 482"
-subtitle: "<h3>Visto de sponsor subclasse 482</h3>"
+title: "<h2>Visto de Trabalho subclasse 482</h2>"
+subtitle: "<h3>Visto de sponsor 482</h3>"
 description: "Visto de trabalho para a Austrália"
 draft: false
 ---
@@ -13,7 +13,7 @@ O candidato a essa modalidade de visto precisa:
 * Ser nomeado por uma empresa na Austrália (Standard Business Sponsor)
 * Comprovar experiência profissional e qualificação na função
 * Possuir uma profissão que esteja em demanda nas listas de profissões do visto 482
-* Obter a nota mínima exigida nos testes de inglês
+* Obter a nota mínima exigida no teste de inglês
 
 ***
 
