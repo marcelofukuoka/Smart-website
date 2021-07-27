@@ -8,7 +8,7 @@ draft: false
 ***
 
 1. [General Skilled Migration visas (Profissionais qualificados)](https://www.smartvistos.com.br/vistos/profissionais-qualificados/)
-2. Trabalho (Subclasse 482)
+2. [Trabalho (Subclasse 482)](https://www.smartvistos.com.br/vistos/visto-trabalho-482/)
 3. Global Talent visa (Subclass 858)
 4. Business e Investor visas
 5. Graduate visa (Subclass 485)
