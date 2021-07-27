@@ -4,8 +4,7 @@ subtitle: "<h3>Visto de sponsor subclasse 482</h3>"
 description: "Visto de trabalho para a Austrália"
 draft: false
 ---
-### O visto de trabalho Subclasse 482 permite empresas australianas a contratar trabalhadores extrangeiros (skilled workers) 
-por um período de até 4 anos
+### O visto de trabalho Subclasse 482 permite empresas australianas a contratar trabalhadores extrangeiros (skilled workers) por um período de até 4 anos
 
 ***
 
