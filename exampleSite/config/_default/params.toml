@@ -25,6 +25,10 @@ icon = "fab fa-facebook"
 link = "https://www.facebook.com/smartvistos"
 title = "facebook"
 [[social]]
+icon = "fab fa-instagram"
+link = "https://www.instagram.com/smartvistos/"
+title = "instagram"
+[[social]]
 icon = "fab fa-whatsapp"
 link = "http://api.whatsapp.com/send?phone=5519971511269"
 title = "whatsapp"
