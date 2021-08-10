@@ -40,7 +40,7 @@ url = "depoimentos"
 weight = "5"
 [[main]]
 name = "Blog"
-url = "blog"
+url = "https://blog.smartvistos.com.br/blog/"
 weight = "6"
 [[main]]
 name = "Contato"
