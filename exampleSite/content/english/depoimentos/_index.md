@@ -8,6 +8,14 @@ draft: false
 
 _________________________________________________________________________________________________________________________________
 
+"Nossa história com a Smart Vistos começou em 2017 quando ainda no Brasil tínhamos a pretensão para o visto Skilled 189. Marcelo nos ajudou a obter com sucesso a qualificação da minha profissão na Australia pelo TRA. Com pontuação insuficiente para o Skilled 189, viemos para Austrália em 2019 com um plano formado junto com o Marcelo em aumentar pontuação com PTE e NAATI. Mesmo após isso, nossa pontuação era pouco provável de ser chamada devido ao aumento de pontuação de corte durante esse tempo que estava tentando elevar minha pontuação. Novamente traçamos um novo plano para visto regional 491 e também 190, quando surgiu uma oportunidade de visto sponsor 186 muito em cima do vencimento do nosso visto de estudante, e com muita eficácia Marcelo nos conduziu pelo processo todo até a aprovação do mesmo com sucesso em Outubro - 2021. Foram quatro anos de atendimento excelente, sempre respondendo todos nossos emails com dúvidas e replanejamentos dentro de 24h e reuniões por Skype sempre que foi necessário esclarecimentos melhores. Marcelo e Edjane foram muito profissionais durante todo nosso contrato, e com certeza nós recomendamos os serviços da Smart Vistos."
+
+Obrigado Marcelo e Edjane
+
+Willian e Juliana, Sponsor 186, Outubro - 2021
+
+_________________________________________________________________________________________________________________________________
+
 "Marcelo has helped me with two successful visa applications: one for my skilled visa and another for a partner visa. He's shown a lot of professionalism, which gave us
 confidence to proceed with the application processes.
 
