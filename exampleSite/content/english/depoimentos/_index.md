@@ -7,6 +7,15 @@ draft: false
 ---
 _________________________________________________________________________________________________________________________________
 
+“Descobrimos o Marcelo (e consequentemente a Smart Vistos) através da lista MARA (Migration Agents Registration Authority) no site da imigração Australiana, sendo o único agente habilitado aqui no Brasil. Apliquei a EOI para o novo Global Talent Visa (858) e recebi a UID em Outubro de 2020. Porém, tínhamos muitas dúvidas sobre o processo seguinte, documentação necessária, e claro insegurança de fazer algo errado e perder uma chance única na vida.
+
+A contratação dos serviços da Smart Vistos foi fundamental, pois nos forneceram um atendimento consistente, claro e objetivo. Indicamos a Smart Vistos para qualquer tipo de visto, incluindo o novo Global Talent (858). Os processos muitas vezes são longos e cheios de expectativas, porém o Marcelo de forma brilhante passa uma segurança que nos ajuda a controlar a ansiedade.
+
+Só temos a agradecer ao time da Smart Vistos por todo o trabalho e dedicação em nosso processo. O trabalho de vocês possui um impacto que pode mudar a vida de muitas pessoas. Parabéns!!!”
+
+Lucas, Global Talent Visa, November - 2021
+_________________________________________________________________________________________________________________________________
+
 “Conhecemos o trabalho do Marcelo em 2019 através da recomendação de uma amiga. Naquela época a intenção era obter um visto de trabalho para desenvolver um pós-doutorado na The University of Queensland. O Marcelo e a Edjane foram extremamente profissionais, e ágeis com o nosso processo, e tivemos o visto aprovado de primeira. Embarcamos pra Austrália e ficamos um ano por lá. Voltamos pro Brasil, e após alguns meses de retorno fizemos uma nova consulta, desta vez com a intenção de obter um visto de Residência Permanente. Após análise, entendemos que tínhamos o perfil adequado para aplicar ao programa Global Talent Independet Visa, e não perdemos tempo. Contratamos novamente os serviços da Smart Vistos e tivemos várias interações consistentes que nos deram a certeza de que estávamos no caminho certo. Aplicamos a nossa EOI e em 5 meses recebemos o nosso convite para aplicação sem nenhum questionamento. Comemoramos muito e nos preparamos para aplicar o visto de fato. Juntamos a documentação e realizamos a aplicação. Para nossa surpresa, 1 mês após a aplicação recebemos o nosso Granted Visa. Temos certeza de que o minucioso trabalho do Marcelo e seu time foram fundamentais para este resultado tão esperado e feliz. Tê-los escolhido tornou a nossa jornada muito mais leve e transparente!
 Recomendamos muito os serviços da Smart Vistos e gostaríamos mais uma vez de agradecer pela atenção e dedicação aplicada em nosso processo!”
 
