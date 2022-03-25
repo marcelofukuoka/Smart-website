@@ -7,6 +7,19 @@ draft: false
 ---
 _________________________________________________________________________________________________________________________________
 
+“O Marcelo e Smart Vistos staff sao extremamente competentes e profissionais! Tivemos um dos maiores desafios de nossas vidas quando recebemos a oportunidade de trabalhar numa empresa na Australia e, em posse de nosso PR (o qual tambem foi obtido com assessoria da Smart Vistos), tivemos que fazer uma aplicacao emergencial de visto de turista de nosso bebe de apenas 5 meses em meio a uma pandemia global.
+
+O Marcelo, com toda sua transparencia e profissionalismo nos assessorou durante todo processo, nos alertou a respeito dos riscos e nos apresentou todas as alternativas cabiveis! Isso fez com que conseguimos o que, aparentemente, parecia impossivel! O visto do bebe foi aprovado e pudemos alcancar nosso tao sonhado objetivo de morar na Australia! Eu mal podia acreditar!!
+
+Logo apos, o Marcelo nos assessorou novamente na obtencao do Child Visa, para que, assim como nos, nosso bebe pudesse ter direito ao Medicare e todos os demais beneficios. Mais uma vez, processo totalmente transparente e facil. Todo o "trabalho duro" eh feito pela Smart Vistos e ficamos super tranquilos do inicio ao fim.
+
+Atualmente, chegamos a conclusao desta etapa! Posso dizer aliviada, que toda familia eh residente e que venha a Cidadania (com certeza tambem sera assessorada pelo Marcelo).
+
+Marcelo e Edjane, nao tenho palavras para expressar minha gratidao, saibam no coracao de vcs que sempre farao parte da nossa historia, voces foram parte crucial em transformar a visao em realidade!!! Por isso, seremos eternamente gratos! Muito sucesso e muitas bencaos nos caminhos de voces!!! MUITO OBRIGADA!!! CHEERS!”
+
+Carolina e Dayvyson, Child Visa, Março - 2022
+_________________________________________________________________________________________________________________________________
+
 “Descobrimos o Marcelo (e consequentemente a Smart Vistos) através da lista MARA (Migration Agents Registration Authority) no site da imigração Australiana, sendo o único agente habilitado aqui no Brasil. Apliquei a EOI para o novo Global Talent Visa (858) e recebi a UID em Outubro de 2020. Porém, tínhamos muitas dúvidas sobre o processo seguinte, documentação necessária, e claro insegurança de fazer algo errado e perder uma chance única na vida.
 
 A contratação dos serviços da Smart Vistos foi fundamental, pois nos forneceram um atendimento consistente, claro e objetivo. Indicamos a Smart Vistos para qualquer tipo de visto, incluindo o novo Global Talent (858). Os processos muitas vezes são longos e cheios de expectativas, porém o Marcelo de forma brilhante passa uma segurança que nos ajuda a controlar a ansiedade.
