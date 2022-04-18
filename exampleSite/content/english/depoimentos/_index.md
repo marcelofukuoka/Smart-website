@@ -7,6 +7,11 @@ draft: false
 ---
 _________________________________________________________________________________________________________________________________
 
+“Tive uma excelente experiência na aplicação do visto 482 utilizando os serviços da Smart Vistos. Recebi a indicação do Marcelo através de um amigo e desde a primeira conversa percebi que se tratava de um excelente profissional com muita experiência e muita transparência. Todo o processo do visto aconteceu de uma maneira muito suave, séria e transparente. O resultado final não poderia ser outro: VISTO APROVADO! Gostei muito da seriedade da empresa no quesito burocrático, sempre emitindo nota fiscal, declaração de serviços e comprovantes. Além disso, sempre responderam de maneira rápida e clara todos os meus questionamentos. Indiscutivelmente ganhou a minha credibilidade e com certeza recomendo o Marcelo e a smart vistos para qualquer um que queira aplicar para visto na Austrália.”
+
+João Henrique, Temporary Skill Visa 482, April - 2022
+_________________________________________________________________________________________________________________________________
+
 “O Marcelo e Smart Vistos staff sao extremamente competentes e profissionais! Tivemos um dos maiores desafios de nossas vidas quando recebemos a oportunidade de trabalhar numa empresa na Australia e, em posse de nosso PR (o qual tambem foi obtido com assessoria da Smart Vistos), tivemos que fazer uma aplicacao emergencial de visto de turista de nosso bebe de apenas 5 meses em meio a uma pandemia global.
 
 O Marcelo, com toda sua transparencia e profissionalismo nos assessorou durante todo processo, nos alertou a respeito dos riscos e nos apresentou todas as alternativas cabiveis! Isso fez com que conseguimos o que, aparentemente, parecia impossivel! O visto do bebe foi aprovado e pudemos alcancar nosso tao sonhado objetivo de morar na Australia! Eu mal podia acreditar!!
