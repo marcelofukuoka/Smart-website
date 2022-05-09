@@ -7,6 +7,11 @@ draft: false
 ---
 _________________________________________________________________________________________________________________________________
 
+“Tentamos aplicar por conta própria para o visto Global Talent, porem após um ano de ter enviado a documentação da EOI não havíamos tido resposta da imigracao. Uma amiga comentou sobre o Marcelo e que o visto dela havia sido aprovado após contratar os serviços da Smart Vistos. Então, agendamos uma entrevista com ele e ele deu dicas do que poderíamos ter feito de errado, mandamos um email para a imigração com a documentação faltante e em um mês nos responderam com o convite para aplicar o visto. Não pensamos duas vezes em contratar a Smart Vistos para dar entrada no visto e o que achamos que demoraria muitos meses, foi super rápido, e em 3 meses (incluindo o tempo que levamos para organizar todos os documentos) saiu o nosso tão sonhado visto de residentes permanentes. Obrigada Marcelo e Edjane por todo o profissionalismo e por ter ajudado em cada detalhe.”
+
+Jéssica e Jean, Global Talent Visa, Maio - 2022
+_________________________________________________________________________________________________________________________________
+
 “Tive uma excelente experiência na aplicação do visto 482 utilizando os serviços da Smart Vistos. Recebi a indicação do Marcelo através de um amigo e desde a primeira conversa percebi que se tratava de um excelente profissional com muita experiência e muita transparência. Todo o processo do visto aconteceu de uma maneira muito suave, séria e transparente. O resultado final não poderia ser outro: VISTO APROVADO! Gostei muito da seriedade da empresa no quesito burocrático, sempre emitindo nota fiscal, declaração de serviços e comprovantes. Além disso, sempre responderam de maneira rápida e clara todos os meus questionamentos. Indiscutivelmente ganhou a minha credibilidade e com certeza recomendo o Marcelo e a smart vistos para qualquer um que queira aplicar para visto na Austrália.”
 
 João Henrique, Temporary Skill Visa 482, April - 2022
