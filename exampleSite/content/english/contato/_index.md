@@ -8,7 +8,8 @@ draft: false
 ## **Smart Vistos**  
 **Rua Conceição, 233 - sala 916**  
 **Campinas/SP - CEP:13010-050 Brasil**  
-**Office Hours: Monday - Friday (8:30 - 17:30)**
+**Office Hours: Monday - Thursday (8:30 - 17:30)**
+**Office Hours: Friday            (8:30 - 13:00)**
 
 * **Tel: +55 19 4062-7311**
 * **WhatsApp: +55 19 97151-1269**  
