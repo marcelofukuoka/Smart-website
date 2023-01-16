@@ -5,7 +5,16 @@ subtitle: ""
 description: "This is meta description"
 draft: false
 ---
-_________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________
+
+"Venho por meio desse breve texto, agradecer com toda a minha sinceridade, o profissionalismo, a transparência, a honestidade e a total dedicação do Marcelo e Edjane! 
+Ambos maravilhosos, competentes e eficientes! O Marcelo me ajudou e me orientou durante todo o processo do visto permanente! E hurray! Consegui! 
+Ele me deu todo o apoio necessário, me ajudou, me mantendo o tempo todo,  sempre informada sobre o andamento do meu pedido. 
+Recomendo sem dúvida nenhuma, para todos que sonham em viver, estudar ou trabalhar na Austrália, a Smart Vistos, que é prova de profissionalismo, comprometimento, total conhecimento e responsabilidade. Meus parabéns Marcelo e Edjane! 
+Obrigada por tudo! Foi um longo caminho mas conseguimos!" 
+
+Zilda, Parent Visa, Dezembro - 2022
+_________________________________________________________________________________________________________
 
 “Tentamos aplicar por conta própria para o visto Global Talent, porem após um ano de ter enviado a documentação da EOI não havíamos tido resposta da imigracao. Uma amiga comentou sobre o Marcelo e que o visto dela havia sido aprovado após contratar os serviços da Smart Vistos. Então, agendamos uma entrevista com ele e ele deu dicas do que poderíamos ter feito de errado, mandamos um email para a imigração com a documentação faltante e em um mês nos responderam com o convite para aplicar o visto. Não pensamos duas vezes em contratar a Smart Vistos para dar entrada no visto e o que achamos que demoraria muitos meses, foi super rápido, e em 3 meses (incluindo o tempo que levamos para organizar todos os documentos) saiu o nosso tão sonhado visto de residentes permanentes. Obrigada Marcelo e Edjane por todo o profissionalismo e por ter ajudado em cada detalhe.”
 
