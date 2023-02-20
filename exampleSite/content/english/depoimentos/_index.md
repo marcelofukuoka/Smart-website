@@ -7,6 +7,11 @@ draft: false
 ---
 _________________________________________________________________________________________________
 
+"Desde 2006 quando morei na Austrália pela 1a vez sempre sonhei em ser residente. Se passaram 10 anos e em 2016 voltei para Sydney com bolsa de doutorado, também sonhando em um dia ser residente. No Brasil, no início de 2020, após ter tentado contato com vários agentes de imigração da Austrália, e ter escutado que só me dariam orientação após eu ter a nota de inglês, marquei a 1a reunião com Marcelo, que foi disponível e acessível desde o 1o momento, dando as orientações necessárias. Saberia que ele seria a pessoa para ajudar a realizar meu sonho. Depois de um longo e válido caminho, com a nota de inglês, e informações necessárias para ter a validação com a APS, e ter recebido que eu era elegível para imigrar como psicóloga, veio o Eoi, onde Marcelo deu todas orientações sobre documentos necessários ao processo. E então o tão desejado convite para aplicar para o melhor visto, 189 fez tudo valer a pena. Marcelo sempre vibrou junto e deu apoio para todos os passos, sendo paciente com as pedrinhas no meio do caminho, e nunca deixando a gente perder as esperanças! Gratidão Marcelo!" 
+
+Bruna, Skilled Visa, Fevereiro - 2023
+_________________________________________________________________________________________________
+
 "Imensamente agradecemos ao Marcelo e equipe por todo o profissionalismo e dedicação ao nosso processo desde o reconhecimento da profissão até a aplicação do visto de sponsor. 
 Sou um profissional da saúde e tenho muitos pacientes agentes de imigração de várias nacionalidades aqui em Adelaide na Austrália mas encontrei no Marcelo exatamente o profissional que procuro ser a todo o dia. Amor, dedicação e profissionalismo define esse talentoso AGENTE DE IMIGRAÇÃO com letras maiúsculas. Eternamente grato." 
 
