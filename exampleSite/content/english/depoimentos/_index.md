@@ -7,6 +7,11 @@ draft: false
 ---
 _________________________________________________________________________________________________
 
+"Super recomendo o trabalho do Marcelo e da Smart Vistos! Marcelo, juntamente com a Edjane me ajudaram na questao da minha validacao de diploma e do meu visto. Ressalto aqui a rapidez com a resposta dos meus emails e ligacoes, e tambem a clareza e seriedade com que trataram a minha situacao, sempre honrando com a palavra e me apresentando reais opcoes, sem vender possibilidades, apenas propondo certezas de possiveis caminhos. Trabalho de qualidade e comprometimento." 
+
+Olindo, Skilled Visa, Março - 2023
+_________________________________________________________________________________________________
+
 "Chegamos até a Smart Vistos por meio de pesquisa de internet em 2017 com um sonho e muitas dúvidas. O Marcelo e a Edjane sempre muito prestativos nos orientaram por esta trajetória que envolveu muito aprendizado, desenvolvimento e uma dose de paciência. Iniciamos presencialmente em Campinas, depois me mudei para Curitiba e depois para Natal, onde continuamos remotamente. Atravessamos a pandemia aguardando a reabertura das fronteiras e atento às novas notícias. O que posso dizer é que toda essa espera valeu a pena! Tivemos nossa aprovação para o melhor visto possível, o skilled 189 em fevereiro de 2023. Antes disso havíamos aplicados para vistos temporários e regionais mas sem sucesso. Estamos indo em maio de 2023 para uma economia muito aquecida na área de engenharia e muito animados para as próximas etapas. Se você tem o sonho como nós de viver na Austrália, eu recomendo e muito os serviços da Smart Vistos." 
 
 Gustavo, Skilled Visa, Fevereiro - 2023
