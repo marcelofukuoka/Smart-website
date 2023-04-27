@@ -29,6 +29,6 @@ Por favor, preencha o formulário online através do link [*FORMULÁRIO ENTREVIS
 O agente de imigração fará uma pré-análise gratuita nesses documentos.
 Caso esteja dentro do perfil imigratório, a entrevista será agendada.
  
-O valor da entrevista é de R$ 650,00.
+O valor da entrevista é de R$ 700,00.
 A entrevista pode ser realizada via Skype, Google Meet, WhatsApp vídeo ou telefone.
 
