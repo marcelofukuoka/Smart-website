@@ -7,6 +7,12 @@ draft: false
 ---
 _________________________________________________________________________________________________
 
+"Gostaria de expressar minha sincera gratidão à Smart Vistos e especialmente ao Marcelo. Seu profissionalismo e atenção foram excepcionais e fizeram toda a diferença na aprovação do nosso visto. Desde o início, Marcelo nos guiou com paciência e nos forneceu informações claras e precisas. Ele foi incansável em responder todas as nossas dúvidas e nos manteve informados em cada etapa do processo. Não teríamos conseguido o visto sem a ajuda e o suporte da equipe da Smart Vistos. Recomendo Marcelo e sua equipe para quem precisar de serviços relacionados a visto. 
+Obrigado novamente por tudo." 
+
+Flávio, Skilled Visa, Maio - 2023
+_________________________________________________________________________________________________
+
 "Super recomendo o trabalho do Marcelo e da Smart Vistos! Marcelo, juntamente com a Edjane me ajudaram na questao da minha validacao de diploma e do meu visto. Ressalto aqui a rapidez com a resposta dos meus emails e ligacoes, e tambem a clareza e seriedade com que trataram a minha situacao, sempre honrando com a palavra e me apresentando reais opcoes, sem vender possibilidades, apenas propondo certezas de possiveis caminhos. Trabalho de qualidade e comprometimento." 
 
 Olindo, Skilled Visa, Março - 2023
