@@ -13,6 +13,13 @@ Obrigado novamente por tudo."
 Flávio, Skilled Visa, Maio - 2023
 _________________________________________________________________________________________________
 
+"Desde o primeiro contato, a Smart Vistos nos atendeu com muita segurança e transparência, qualidades que nos levaram a escolher o Marcelo pra cuidar do nosso processo de imigração. Com mais de 350 e-mails trocados e quase 3 anos de trabalho, sempre recebemos um atendimento muito profissional e detalhista, com tanta dedicação que tínhamos a impressão de ser clientes exclusivos, tendo nossas dúvidas atendidas com muita rapidez.
+Nosso processo foi impactado pela Pandemia, exigindo de nós e do Marcelo uma dose adicional de paciência, que manteve a calma e nossos pés no chão em todos os momentos, nos orientando qual melhor caminho seguir para obter nosso visto.
+Agora, com visto aprovado e prestes a embarcar pra realizar nosso grande sonho, não conseguimos pensar em ninguém mais que o Marcelo pra cuidar, em breve, do nosso Visto Permanente."
+
+Fabio e Camila, Skilled Visa - Abril 2023
+_________________________________________________________________________________________________
+
 "Super recomendo o trabalho do Marcelo e da Smart Vistos! Marcelo, juntamente com a Edjane me ajudaram na questao da minha validacao de diploma e do meu visto. Ressalto aqui a rapidez com a resposta dos meus emails e ligacoes, e tambem a clareza e seriedade com que trataram a minha situacao, sempre honrando com a palavra e me apresentando reais opcoes, sem vender possibilidades, apenas propondo certezas de possiveis caminhos. Trabalho de qualidade e comprometimento." 
 
 Olindo, Skilled Visa, Março - 2023
