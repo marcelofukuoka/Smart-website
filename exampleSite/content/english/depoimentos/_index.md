@@ -7,6 +7,13 @@ draft: false
 ---
 _________________________________________________________________________________________________
 
+“Realizei a aplicação do meu visto com o Marcelo, o serviço prestado foi excelente! 
+A atenção aos detalhes tornou todo o processo mais eficiente e tranquilo. 
+Meu visto foi aprovado sem problemas, recomendo a todos.” 
+
+Marinara, Partner Visa, Junho - 2023
+_________________________________________________________________________________________________
+
 "Gostaria de expressar minha sincera gratidão à Smart Vistos e especialmente ao Marcelo. Seu profissionalismo e atenção foram excepcionais e fizeram toda a diferença na aprovação do nosso visto. Desde o início, Marcelo nos guiou com paciência e nos forneceu informações claras e precisas. Ele foi incansável em responder todas as nossas dúvidas e nos manteve informados em cada etapa do processo. Não teríamos conseguido o visto sem a ajuda e o suporte da equipe da Smart Vistos. Recomendo Marcelo e sua equipe para quem precisar de serviços relacionados a visto. 
 Obrigado novamente por tudo." 
 
