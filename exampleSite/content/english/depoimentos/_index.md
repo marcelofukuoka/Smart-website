@@ -7,6 +7,13 @@ draft: false
 ---
 _________________________________________________________________________________________________
 
+“Marcelo e Edjane, gostaria de agradecer esses anos de convivência até a obtenção do visto solicitado por mim. Vocês sempre estiveram disponíveis, com boa vontade, para atender, esclarecer, solucionar todo o necessário nesse período, vocês foram essenciais para a obtenção do visto. 
+Reitero meus agradecimentos e recomendo esta empresa por seu profissionalismo, integridade e transparência.
+Cordialmente,” 
+
+Victoria, Parent Visa, Julho - 2023
+_________________________________________________________________________________________________
+
 “Realizei a aplicação do meu visto com o Marcelo, o serviço prestado foi excelente! 
 A atenção aos detalhes tornou todo o processo mais eficiente e tranquilo. 
 Meu visto foi aprovado sem problemas, recomendo a todos.” 
