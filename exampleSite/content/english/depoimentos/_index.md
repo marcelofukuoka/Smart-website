@@ -7,6 +7,11 @@ draft: false
 ---
 _________________________________________________________________________________________________
 
+“Gostaria de agradecer a você, Marcelo e Edjane pela atenção e paciência durante todo este processo. A Smart Vistos foi fundamental para a obtenção do nosso visto. Foram 4 anos desde a aplicação. Quando o caminho parecia estar certo, uma pandemia veio para mudar tudo, mesmo assim, a Smart Vistos foi persistente e, em julho de 2023, nosso visto foi aprovado. Obrigada por tudo.” 
+
+Maria Fernanda, Skilled Visa, Julho - 2023
+_________________________________________________________________________________________________
+
 “Marcelo e Edjane, gostaria de agradecer esses anos de convivência até a obtenção do visto solicitado por mim. Vocês sempre estiveram disponíveis, com boa vontade, para atender, esclarecer, solucionar todo o necessário nesse período, vocês foram essenciais para a obtenção do visto. 
 Reitero meus agradecimentos e recomendo esta empresa por seu profissionalismo, integridade e transparência.
 Cordialmente,” 
