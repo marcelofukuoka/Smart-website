@@ -7,6 +7,13 @@ draft: false
 ---
 _________________________________________________________________________________________________
 
+“Muito obrigado Marcelo por toda a assistência e serviços prestados para que eu conseguisse meu skilled visa pra Austrália. Eu não tenho dúvida que escolher ele como agente de imigração foi a melhor decisão tomada nesse longo caminho em torno da imigração pra Austrália, considerando também que meu primo é cidadão australiano hoje e foi o Marcelo que também fez a aplicação do skills pra ele.
+Recomendo a Smart Vistos de olho fechado, garantido serviço de melhor qualidade com excelentes profissionais.
+Tudo de melhor pra vocês, Marcelo e Edjane, um beijo.” 
+
+Izabela, Skilled Visa, Outubro - 2023
+_________________________________________________________________________________________________
+
 “Gostaria de agradecer a você, Marcelo e Edjane pela atenção e paciência durante todo este processo. A Smart Vistos foi fundamental para a obtenção do nosso visto. Foram 4 anos desde a aplicação. Quando o caminho parecia estar certo, uma pandemia veio para mudar tudo, mesmo assim, a Smart Vistos foi persistente e, em julho de 2023, nosso visto foi aprovado. Obrigada por tudo.” 
 
 Maria Fernanda, Skilled Visa, Julho - 2023
