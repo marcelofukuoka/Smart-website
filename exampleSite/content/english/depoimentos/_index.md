@@ -7,6 +7,15 @@ draft: false
 ---
 _________________________________________________________________________________________________
 
+“Gostaríamos de agradecer imensamente a Smart Vistos por todo suporte prestado desde 2019 para a obtenção do Skilled Visa 491.
+Por recomendação de um grande amigo, o Marcelo nos ajudou a desenhar o melhor caminho para conseguirmos o visto de trabalho. Com o advento da pandemia, tivemos que ter resiliência para seguir as estratégias sugeridas e após quase 5 anos, recebemos o nosso tão sonhado Granted Visa para a regional de NSW.
+Gratidão imensa ao Marcelo e Edjane por tudo! Mas o trabalho não para por aí, futuramente contaremos com o suporte de vocês para emissão dos vistos dos nossos familiares que um dia nos visitarão na AUS.
+
+Que Deus abençoe vocês e gratidão por tudo!” 
+
+Leandro e Paloma, Skilled Visa, Fevereiro - 2024
+_________________________________________________________________________________________________
+
 “Muito obrigado Marcelo por toda a assistência e serviços prestados para que eu conseguisse meu skilled visa pra Austrália. Eu não tenho dúvida que escolher ele como agente de imigração foi a melhor decisão tomada nesse longo caminho em torno da imigração pra Austrália, considerando também que meu primo é cidadão australiano hoje e foi o Marcelo que também fez a aplicação do skills pra ele.
 Recomendo a Smart Vistos de olho fechado, garantido serviço de melhor qualidade com excelentes profissionais.
 Tudo de melhor pra vocês, Marcelo e Edjane, um beijo.” 
