@@ -7,6 +7,13 @@ draft: false
 ---
 _________________________________________________________________________________________________
 
+“Eu venho agradecer ao Marcelo e a equipe da Smart Vistos que foi muito pontual em todas as horas e presente a cada momento e em pouco tempo fizeram tudo acontecer. 
+Estamos muitos felizes de ter escolhido vocês para fazer o nosso processo e hoje termos nosso visto granted.
+E concerteza recomendarei vocês, pois é uma empresa de excelência. Muito obrigado novamente empresa nota 1000🙏” 
+
+Cleber e Tainara, Skilled Visa, Abril - 2024
+_________________________________________________________________________________________________
+
 "Gostaria de agradecer ao Marcelo e toda equipe da Smart Vistos pela a melhor assistencia com o meu visto. 
 
 O momento de aplicacao do meu visto foi bem desafiador ja que muitas mudancas na imigracao ocorreram e a concorrencia e pontuacao estavam no auge de um cenario impossivel para a aprovacao do meu visto. 
