@@ -7,6 +7,11 @@ draft: false
 ---
 _________________________________________________________________________________________________
 
+“Thanks Smart Vistos! Thanks Marcelo! A Smart Vistos, e em especial o Marcelo, foram essenciais para hoje a gente estar vivendo o sonho de viver na Austrália. Ele sempre nos mostrou com clareza as nossas possibilidades e o que precisávamos fazer para conseguirmos a nossa tão sonhada Residência. Ainda temos um caminho a percorrer, mas com a ajuda da Smart Vistos, agora faremos isso com a Residência em mãos!” 
+
+Alecsander e Ana Paula, Skilled Visa, Maio - 2024
+_________________________________________________________________________________________________
+
 “Eu venho agradecer ao Marcelo e a equipe da Smart Vistos que foi muito pontual em todas as horas e presente a cada momento e em pouco tempo fizeram tudo acontecer. 
 Estamos muitos felizes de ter escolhido vocês para fazer o nosso processo e hoje termos nosso visto granted.
 E concerteza recomendarei vocês, pois é uma empresa de excelência. Muito obrigado novamente empresa nota 1000🙏” 
