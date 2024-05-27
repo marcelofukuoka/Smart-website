@@ -7,6 +7,14 @@ draft: false
 ---
 _________________________________________________________________________________________________
 
+“Conheci o Marcelo e a equipe da Smart Vistos por indicação de um amigo. Desde o início, a confiabilidade, transparência, conhecimento e profissionalismo do Marcelo ficaram evidentes. Após analisar meu perfil, Marcelo construiu uma estratégia detalhada para o tão sonhado visto permanente Subclass 858 – Global Talent Visa. Apesar das minhas preocupações devido à idade, já que tenho mais de 45 anos, Marcelo e sua equipe mostraram-se extremamente competentes. Fizemos a EOI e, após 7 meses, recebemos a resposta positiva da imigração. O visto foi aprovado recentemente, incluindo minha filha de 18 anos.
+Hoje estamos em Melbourne, eu trabalhando na minha área e minha filha construindo seu futuro, graças ao suporte que o visto permanente proporciona.
+Agradeço imensamente ao Marcelo e à Edjane, que sempre responderam minhas dúvidas com rapidez e clareza. A Smart Vistos foi fundamental na realização do nosso sonho de viver na Austrália.
+Recomendo fortemente o Marcelo, Edjane e toda a equipe da Smart Vistos.” 
+
+Juliano e Ana Laura, Global Talent Visa, Maio - 2024
+_________________________________________________________________________________________________
+
 “Thanks Smart Vistos! Thanks Marcelo! A Smart Vistos, e em especial o Marcelo, foram essenciais para hoje a gente estar vivendo o sonho de viver na Austrália. Ele sempre nos mostrou com clareza as nossas possibilidades e o que precisávamos fazer para conseguirmos a nossa tão sonhada Residência. Ainda temos um caminho a percorrer, mas com a ajuda da Smart Vistos, agora faremos isso com a Residência em mãos!” 
 
 Alecsander e Ana Paula, Skilled Visa, Maio - 2024
