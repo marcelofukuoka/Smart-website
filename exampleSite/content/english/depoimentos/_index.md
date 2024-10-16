@@ -7,6 +7,17 @@ draft: false
 ---
 _________________________________________________________________________________________________
 
+“Conhecemos o Marcelo através de amigos já aqui na Australia. Depois de passar por diversos advogados o atendimento do Marcelo foi o principal diferencial. Ele sempre se fez presente, respondendo e-mail e sempre se mostrando a disposição, o que muitos advogados não fizeram ele fez. 
+
+Aplicamos primeiro para o visto de skill e infelizmente o governo no momento não estava fazendo nenhum convite. O Marcelo conhecendo nossa situação, nos recomendou procurar por um sponsor ou DAMA. 
+E assim nós fizemos. E hoje só tenho a agradecer a ajuda do Marcelo com a aplicação do nosso visto de sponsor 186DE.
+
+Então obrigada Marcelo por estar disponível em cada Email fora de hora, duvida de visto. Você fez a diferença no nosso processo. 
+Muito obrigada novamente.” 
+
+Tiago e Carol, Employer Nomination Scheme Visa, October - 2024
+_________________________________________________________________________________________________
+
 “Eu e minha esposa conhecemos o Marcelo por indicação de outro casal de amigos nossos que na época tinham acabado de conseguir o visto permanente na Austrália com a ajuda dele.
 
 Fazem duas semana que eu e minha esposa recebemos o nosso tão esperado visto permanente e por isso eu venho aqui deixar o meu depoimento! Quero agradecer do fundo do coração em meu nome e também da minha esposa, Bruna, toda ajuda que o Marcelo nos proporcionou, sempre com muita prontidão e conhecimento. Além disso o Marcelo é muito justo nos preços, principalmente comparando com outros agentes de imigração que estão localizados na Austrália. Tenho certeza que se você ainda está na dúvida não vai se arrepender de contratar os serviços dele. Bastou uma reunião para nós percebemos da seriedade, capacidade e principalmente da honestidade do Marcelo.
