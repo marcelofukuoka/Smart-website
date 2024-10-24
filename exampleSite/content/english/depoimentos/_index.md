@@ -7,6 +7,18 @@ draft: false
 ---
 _________________________________________________________________________________________________
 
+“Tudo foi muito claro desde o primeiro contato com o Marcelo e a Edjane para marcação da primeira reunião, sempre sentimos que eram pessoas que sabiam do que estavam falando e quando havia dúvida pediam tempo para realizar pesquisas e estudos e nos retornavam com respostas, sempre focadas em trazer a realidade e realizar os trâmites de forma correta. 
+O nosso processo tinha uma estimativa de durar cerca de 2 anos e foi completado em apenas 9 meses graças às orientações e grande conhecimento da equipe da Smart Vistos na hora de preparar os documentos. 
+
+Mais uma vez obrigado Marcelo e Edjane pelas inúmeras respostas às nossas dúvidas e inseguranças durante o processo. 
+
+Não temos nenhuma sugestão ao trabalho de vocês, toda a estrutura da preparação dos documentos, sem dúvida, foi essencial para obtermos um sucesso tão rápido. 
+
+Grande abraço,” 
+
+Murilo, Partner Visa, Outubro - 2024
+_________________________________________________________________________________________________
+
 “Conhecemos o Marcelo através de amigos já aqui na Australia. Depois de passar por diversos advogados o atendimento do Marcelo foi o principal diferencial. Ele sempre se fez presente, respondendo e-mail e sempre se mostrando a disposição, o que muitos advogados não fizeram ele fez. 
 
 Aplicamos primeiro para o visto de skill e infelizmente o governo no momento não estava fazendo nenhum convite. O Marcelo conhecendo nossa situação, nos recomendou procurar por um sponsor ou DAMA. 
@@ -15,7 +27,7 @@ E assim nós fizemos. E hoje só tenho a agradecer a ajuda do Marcelo com a apli
 Então obrigada Marcelo por estar disponível em cada Email fora de hora, duvida de visto. Você fez a diferença no nosso processo. 
 Muito obrigada novamente.” 
 
-Tiago e Carol, Employer Nomination Scheme Visa, October - 2024
+Tiago e Carol, Employer Nomination Scheme Visa, Outubro - 2024
 _________________________________________________________________________________________________
 
 “Eu e minha esposa conhecemos o Marcelo por indicação de outro casal de amigos nossos que na época tinham acabado de conseguir o visto permanente na Austrália com a ajuda dele.
@@ -24,7 +36,7 @@ Fazem duas semana que eu e minha esposa recebemos o nosso tão esperado visto pe
 
 Grande abraço!” 
 
-Julio e Bruna, Employer Nomination Scheme Visa, September - 2024
+Julio e Bruna, Employer Nomination Scheme Visa, Setembro - 2024
 _________________________________________________________________________________________________
 
 “Começamos a tentativa de obtenção do visto de trabalho da Austrália em janeiro de 2020. Na época, cogitamos a possibilidade de fazer toda a tramitação por nós mesmos, mas após refletirmos um pouco, decidimos por contratar um Agente de Imigração. Nessa oportunidade, contratamos um outro profissional que nos atendia lá da Austrália. Além da diferença de fuso, os honorários eram pagos em dólar, a comunicação era na maioria das vezes feita por email e a sua metodologia era burocrática, fria e protocolar. Milhares de dólares depois, recebemos a orientação desse primeiro agente de que deveríamos providenciar a tradução juramentada de todo o meu TCC (mais de cem páginas), e somente esta tradução custaria mais de R$ 10.000,00.  Essa foi a “gota d'água”. Ficamos bastante desanimados, e optamos por desistir de continuar a consultoria com esse primeiro profissional. Em novembro de 2021, em conversa com uma colega que é tradutora NAATI, recebemos a indicação da Smart Vistos. Desde o primeiro contato, a mudança foi literalmente da “água para o vinho”. Toda a equipe da Smart Vistos é nota 10. Marcelo é educado, pontual, competente, gentil e inteligente. As tramitações necessárias em todas as etapas envolvem muitas questões, e muitas vezes, nós como leigos ficamos apreensivos e duvidosos. Marcelo foi assertivo em TODAS as dúvidas que tivemos, sendo um poço de razão, em situações que muitas vezes estávamos nos orientando puramente na emoção. Fez uma análise certeira do nosso caso em particular, tendo um timing perfeito sobre o momento e em qual lugar deveríamos aplicar a nossa “Expressão de Interesse”. Nossa pontuação nos critérios da Imigração não era muito alta, mas com o auxílio do Marcelo, obtivemos o nosso visto 491 em 05/08/2024. Hoje, com a emissão do visto, podemos afirmar sem nenhuma sombra de dúvida de que a Assessoria do Marcelo foi imprescindível para o sucesso de nossa aplicação. Recomendamos de olhos fechados. Sorte de quem contratar os seus serviços.
