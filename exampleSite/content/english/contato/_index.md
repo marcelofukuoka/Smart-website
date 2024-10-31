@@ -29,6 +29,6 @@ Por favor, preencha o formulário online através do link [*FORMULÁRIO ENTREVIS
 O agente de imigração fará uma pré-análise gratuita nesses documentos.
 Caso esteja dentro do perfil imigratório, a entrevista será agendada.
  
-O valor da entrevista é de R$ 900,00 (cerca de AU$250).
-A entrevista pode ser realizada via Microsoft Teams, Google Meet, WhatsApp vídeo ou telefone.
+O valor da entrevista é de R$ 980,00 (cerca de AU$275) e a duração é cerca de 50 minutos. 
+A entrevista pode ser realizada via Microsoft Teams, Google Meet ou WhatsApp vídeo.
 
