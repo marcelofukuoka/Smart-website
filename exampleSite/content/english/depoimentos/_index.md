@@ -5,6 +5,9 @@ subtitle: ""
 description: "This is meta description"
 draft: false
 ---
+"O Marcelo foi essencial em nosso plano imigratório,  sempre muito atencioso e rápido nas respostas, nos passou muita confiança desde o primeiro contato. Nosso skill era diferente dos comuns e mesmo assim ele pesquisou e tinha todas soluções que precisávamos na ponta da língua!  Tínhamos um prazo apertado e o Marcelo com muita excelência cumpriu todos os passos até antes do combinado! Nosso 491 foi aprovado em 3 meses e somos eternamente gratos à equipe Smart Vistos por todo serviço prestado,  indicamos e continuaremos indicando vocês sempre! Mil vezes obrigado!" 
+
+Marina e Guilherme, Skilled Visa, Dezembro - 2024
 _________________________________________________________________________________________________
 
 “Tudo foi muito claro desde o primeiro contato com o Marcelo e a Edjane para marcação da primeira reunião, sempre sentimos que eram pessoas que sabiam do que estavam falando e quando havia dúvida pediam tempo para realizar pesquisas e estudos e nos retornavam com respostas, sempre focadas em trazer a realidade e realizar os trâmites de forma correta. 
